@@ -83,6 +83,8 @@ Features:
 
 Repository Link: [https://github.com/rookoyole/readme-gen](https://github.com/rookoyole/readme-gen)
 
+Instructional Video: [https://drive.google.com/file/d/1hCtCJSkfsTzrBTzTyjJ4mqb3K9A3dyrh/view](https://drive.google.com/file/d/1hCtCJSkfsTzrBTzTyjJ4mqb3K9A3dyrh/view)
+
 <!-- CONTACT -->
 ## Contact
 
