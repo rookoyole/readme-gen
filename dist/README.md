@@ -1,14 +1,14 @@
 
   
   
-  [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 
-  # readme
+  # readme-gen
 
   ## Description
 
-  This project dynamically generates a readme.md based upon user inputs in the command line.
+  Generate readme from console input.
 
   ## Table of Contents 
 
@@ -24,35 +24,35 @@
 
   ## Installation
 
-  Clone repo, install npm, perform a node init, and send node index.js
+  Install node.js, npm and link to repository.
   
   
 
   ## Usage
 
-  The questions start with required questions, then finish with choices.
+  Type node index.js
   
   
 
   ## Contributing
 
-  shields.io
+  Email or submit issue.
   
   
 
   ## Tests
 
-  There were no tests run for this project.
+  No tests written
   
   
 
   ## Links
 
-  This project cannot be deployed since it does not have an html file.
+  No link for this project
   
   ## License
 
-  Creative Commons Zero v1.0 Universal
+  MIT License
 
   ## Questions
   
@@ -66,6 +66,6 @@
 
   ## About
 
-  I am an University of Arizona Coding bootcamp student.
+  UA Coding Bootcamp student
   
   

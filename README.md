@@ -31,23 +31,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rookoyole/planner">
+  <a href="https://github.com/rookoyole/readme-gen">
     <img src="./assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Daily Planner</h3>
+  <h3 align="center">Readme Generator</h3>
 
   <p align="center">
-    UA Bootcamp - Module 5 Challenge
+    UA Bootcamp - Module 9 Challenge
         <br />
-        <a href="https://github.com/rookoyole/planner"><strong>Explore the docs »</strong></a>
+        <a href="https://github.com/rookoyole/readme-gen"><strong>Explore the docs »</strong></a>
         <br />
         <br />
-        <a href="https://github.com/rookoyole/planner">View Demo</a>
+        <a href="https://github.com/rookoyole/readme-gen">View Demo</a>
         ·
-        <a href="https://github.com/rookoyole/planner/issues">Report Bug</a>
+        <a href="https://github.com/rookoyole/readme-gen/issues">Report Bug</a>
         ·
-        <a href="https://github.com/rookoyole/planner/issues">Request Feature</a>
+        <a href="https://github.com/rookoyole/readme-gen/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,20 +70,18 @@
 
 [![Product Name Screen Shot][product-screenshot]](assets/images/screenshot.png)
 <br />
-The purpose of this project was to create a daily planner, with editable, persistent text areas for each hour.
+The purpose of this project was to create a readme generator from console input questions.
 
 Features:
-* Current date shown at top of page
-* Instructions for saving/deleting tasks
-* Editable, persistent text areas for each hour
-* DOM generated Jquery stying based on time of day using Moment.JS
+* File created with markdown format
+* Multiple projects able to be added
+* Required and optional questions grouped to make creation efficient
+* Written completely in Javascript
 
 <!-- PROJECT LINKS -->
 ## Project Links
 
-Hosted Link: [https://rookoyole.github.io/planner/](https://rookoyole.github.io/planner/)
-
-Repository Link: [https://github.com/rookoyole/planner](https://github.com/rookoyole/planner)
+Repository Link: [https://github.com/rookoyole/readme-gen](https://github.com/rookoyole/readme-gen)
 
 <!-- CONTACT -->
 ## Contact
@@ -94,14 +92,14 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/planner.svg?style=for-the-badge
-[contributors-url]: https://github.com/rookoyole/planner/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rookoyole/planner.svg?style=for-the-badge
-[forks-url]: https://github.com/rookoyole/planner/network/members
-[stars-shield]: https://img.shields.io/github/stars/rookoyole/planner.svg?style=for-the-badge
-[stars-url]: https://github.com/rookoyole/planner/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rookoyole/planner.svg?style=for-the-badge
-[issues-url]: https://github.com/rookoyole/planner/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/readme-gen.svg?style=for-the-badge
+[contributors-url]: https://github.com/rookoyole/readme-gen/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rookoyole/readme-gen.svg?style=for-the-badge
+[forks-url]: https://github.com/rookoyole/readme-gen/network/members
+[stars-shield]: https://img.shields.io/github/stars/rookoyole/readme-gen.svg?style=for-the-badge
+[stars-url]: https://github.com/rookoyole/readme-gen/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rookoyole/readme-gen.svg?style=for-the-badge
+[issues-url]: https://github.com/rookoyole/readme-gen/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
 [product-screenshot]: assets/images/screenshot.png
